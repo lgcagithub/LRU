@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1389245549 source:d:\myworkspace\codeblock\cbtemp\lru\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LRU.h"
+
+1389265957 source:d:\myworkspace\codeblock\cbtemp\lru\lru.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"LRU.h"
+
+1389265983 d:\myworkspace\codeblock\cbtemp\lru\lru.h
+
